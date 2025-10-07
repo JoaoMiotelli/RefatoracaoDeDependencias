@@ -107,7 +107,7 @@ python main.py
 
 ---
 
-## 💾 Log de E-mails
+## Log de E-mails
 
 Os “e-mails” enviados são registrados automaticamente no arquivo `log_email.txt`, localizado no diretório raiz do projeto.
 
@@ -140,7 +140,7 @@ Este projeto exemplifica a aplicação prática dos princípios de **Clean Code*
 
 ---
 
-### 👨‍💻 Desenvolvido por
+### Desenvolvido por
 **João Victor Miotelli Vitali**  
 Engenharia de Software – SATC  
 Disciplina: Clean Code  
